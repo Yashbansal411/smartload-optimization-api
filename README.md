@@ -5,8 +5,8 @@ Finds the highest-revenue combination of shipment orders a truck can legally car
 ## How to run
 
 ```bash
-git clone <your-repo>
-cd <folder>
+git clone https://github.com/Yashbansal411/smartload-optimization-api.git
+cd smartload-optimization-api
 docker compose up --build
 # Service available at http://localhost:8080
 ```
